@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanam-Rai
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning compyer stuffs (Major Computer Science)
+- 🌱 I’m currently learning computer programming (Major Computer Science)
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me email me at sanamrai03@gmail.com
 
